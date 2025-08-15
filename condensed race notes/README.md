@@ -22,9 +22,9 @@ Nidoran Manip (Slot 2 Yoloball)
 **Weedle Guy:** [1-7 HP: Potion]
 - TW x2-3 + spam Tackle 
 
-If Bad Special & No Bird - Do **Backup Pidgey Manip**:
-- Nido lead, Menu w/Weedle Guy on screen, Pal(hold)
-- <img src="https://i.imgur.com/fg8s3lj.png" width="175">
+If Bad Special & No Bird - Do **60/60 Backup Pidgey Manip**:
+- Nido lead, Menu w/Weedle Guy **one tile off sceen**, standard intro
+- <img src="https://i.imgur.com/lb8njpP.png" width="175"> <img src="https://i.imgur.com/M3i9TvS.png" width="175"> <img src="https://i.imgur.com/BDgx9Lp.png" width="175">
 
 Pewter Mart:
 - Buy **8 Potions**
