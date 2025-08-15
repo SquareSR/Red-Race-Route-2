@@ -71,25 +71,6 @@ Route 3 Moon Manip (**Pal(hold)**)
 **Grogir Backup** (**Hold A on Bios**)
 - <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
 
-**Menu** before walking in front of the Rocket:
-- Toss any remaining Poke Balls (only if you have a Paras)
-- Potion to 36+ HP
-- Save the Game
-
-**Mt Moon Man:**
-- 2 HA:
-	- Rat: Leer + HA + Tackle (or PS turn 3 if TW hit or PS always KOs)
-	- Zubat: Leer + Tackle + HA (+ Tackle)
-- 3 HA:
-	- Rat: HA x2 (+ PS)
-	- Zubat: Leer + Tackle + HA (+ Tackle)
-- 4 HA:
-	- Rat: HA x2 (+ PS)
-	- Zubat: Leer + HA x2
-- 5+ HA:
-	- Rat: HA x2 (+ PS)
-	- Zubat: HA x3 (+ Tackle)
-
 #### Moon Man Zubat (When to Potion)
 | DEF  | Not confused  | Confused      |
 | ---- | ------------- | ------------- |
@@ -102,76 +83,42 @@ Menu 1-2 steps after defeating Moon Man:
 - Slot 4 - use **Rare Candy**
 - Slot 3 - teach **TM12** (WG) over Tackle (slot 2)
 - Slot 5 - use **Moon Stone**
-- Slot 4 - teach **TM01** (MP) over Leer (slot 1)  
+- Slot 4 - teach **TM01** (MP) over Leer (slot 1)
 
-> If you encounter a Paras or a Geodude, KO it for EXP (PS for Paras, WG for Geodude).      
-> This [Moon EXP](https://docs.google.com/document/d/1ZHm2fto6N0BR9_HupIvUaTnefH38pIztrLcEZwV_NYs/edit?usp=sharing) will improve Bridge ranges, let you HA both Bridge Zubat, + usually Thrash 2nd Oddish before Bill.        
-
-- Talk to the Nerd
-
-**Super Nerd**:
-- Grimer:
-	- MP + WG or HA
-- Voltorb:
-	- MP + PS
-- Koffing: (WG turn 2 if turn 1 crit)
-	- MP x2 or HA + MP
-
-
-If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
-- Use the same intro buffer as Route 3 Manip (PAL Hold)
+If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras) **Pal(hold)**
 <img src="https://i.imgur.com/rRnoayt.png">
 <img src="https://i.imgur.com/MFBagiA.png">
 
-> If you somehow do not have a Paras and do not have a Spearow to trade for DUX,      
-> then pick up the [hidden Great Ball](https://www.extratricky.com/pokeworld/rb/1#170,47), which can be used to catch Oddish after Misty      
->        
-> <img src="https://i.imgur.com/bttz8xv.png" width="250">         
->       
-> only if you need this great ball immediately open the bag:      
-> (toss any regular pokeballs), Swap TM34 with Great Ball, Swap Great Ball with Potion, so Great Ball is Slot 1     
-
-
-## Nugget Bridge
-
-- Use the center (& do NOT get instant text).
-- Pick up the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#235/44)
+## Bridge
 
 **Bridge Rival:**
-
 - **Pidgeotto**:
     - HA x2 + HA or MP
-
-    - Sand Attack x1
-         - 1-30 HP --> **Swap to Squirtle**  & Potion Nido, Spam TW until Squirtle is KO'd
-         - 31+ HP ---> **keep spamming HA**  & the plan is to sacrifice our Bird against Rattata
-
-    - Sand Attack x2+
-         - **Swap to Squirtle** & (Potion Nido if 1-30 HP), spam TW to let Squirtle be KO'd
-
+         - Sand:
+         - 1-30 HP --> **Swap to Squirtle** 
+         - 31+ HP ---> **keep spamming HA**
 - **Abra**: HA
 - **Rat**: MP [Potion under 22 HP]
 - **Bulba**: MP + HA (or MP) [Potion under 15 (or 18 if seeded), unless HA KOs] 
 
 **BC:**
 - MP (+ PS)
-- MP (if you missed MP into String Shot hit use HA)
+- MP (Heal 4)
 
-> Potion **before** any bridge fight if under 25 HP to play safe    
-> (this saves us from having to potion in fight and getting heal looped)     
+> Optional: Potion **before** any bridge fight if under 25 HP
 
 **Lass:**
-- MP (+ PS)
-- HA x2
+- MP (+ PS) (Heal 9)
+- HA x2  (Heal 6)
 
 **Youngster:**
-- MP
-- MP (+ PS)
-- MP (HA if you KO'd a Moon encounter)
+- MP  (Heal 11 or 18)
+- MP (+ PS) (Heal 3)
+- MP (Heal 7) or HA
 
 **Lass:**
-- MP (+ PS)
-- HA x2
+- MP (+ PS) (Heal 9)
+- HA x2 (Heal 6)
 
 **Mankey:** [Note: Mankey is 1/3 to Karate Chop and does 12-15]
 | HP    | Strategy        |
@@ -180,11 +127,11 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 | 16-27 | HA + HA/PS       |
 | 28+   | MP (+ PS)       |
 
-> 1-9 HP: Potion before Rocket.
+> 1-9 HP: Potion before Rocket.     
 
 **Rocket:**
-- MP
-- MP (HA if you fought the extra Moon encounter)
+- MP 
+- MP or HA
 
 ## Route 25
 
@@ -210,19 +157,24 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - Geodude 3
    - WG
 
+> under 6 HP, Potion
+
 **Lass:**
 - MP
 - HA
 - MP (or Thrash if you can already)
 	- Teach Thrash over WG (slot 2)
 
-Menu after Bill:
+Oddish Menu after Bill:
+- Swap S2 TM34 d3 w/ Great Ball (TM34 exits), d1 Candy, s3 Escape
+
+Normal Menu after Bill:
 - Use Slot 5 - **Rare Candy**
 - Use Slot 3 - **Escape Rope**
 
 ## Cerulean City
 
-- Use the Center & once again do NOT get instant text 
+- Use the Center
 
 **Dig Rocket:**
 - Thrash x1-2
@@ -245,11 +197,8 @@ Menu after Bill:
 ## After Misty
 
 > If you somehow have zero Potions left, go to the **Cerulean Mart** after Misty           
-> Buy 5 Potions + quickly menu to swap TM34 with Potions to fix our bag.     
-> Pick up the hidden Full Restore in the underground           
-> <img src="https://i.imgur.com/jaosL5j.png"  width="125">       
-> do not use it, sell the full restore later in Celadon.     
-> (5 potions cost 1500 and the full restore sells for 1500)        
+> Buy 5 Potions (slot 2) + at some point swap TM34 with Potions to fix our bag.     
+> Sell the hiden FR to make the money back at some point.        
 
 If 1-15 HP (or 16-24 HP) after Misty:
 - If 3+ Potions are left:
@@ -260,44 +209,29 @@ If 1-15 HP (or 16-24 HP) after Misty:
 
 ## Route 6
 
-Ignore the note below if you either caught Paras or have a Spearow to trade for DUX:
-
-> If you picked up the hidden Great Ball because you have a Pidgey and no Paras,     
-> then menu immediately after exiting the house after the underground:        
-> - Save, Hard Reset, Normal Intro Buffer, zero A presses, Normal Yolo Ball      
-> - <img src="https://i.imgur.com/AJkWygf.png" width="115">       
-
-**Jr Trainer F:**
-- Thrash x3
-
-**Jr Trainer M:**
-- Thrash x2
-
-## Vermilion City
+Oddish Manip (if needed) standard intro (slot 2 great ball)
+- <img src="https://i.imgur.com/AJkWygf.png" width="115">
 
 Before Boat Rival:
 - Potion to 13+ or 23+ HP to be safe.
+- Slot 7 TM11 (Nugget exits)
 
 **Boat Rival:** 
 - Pidgeotto: [1-12 HP: Potion]
 	- HA x2 
 	- Sand Attack x1
-        -  1-12 HP ---> **Swap to Squirtle**, Potion Nido, Spam TW to let Squirtle be KO'd.
-        -  13-22 HP --> **Spam HA**  & plan to swap to Squirtle on Raticate (may be able to Pot Nido).
-        -  23+ HP ----> **Spam HA**  & plan to swap to Bird on Raticate. 
-    - Sand Attack x2+
-        - Swap to Bird/Squirtle right away and let them be KO'd by Pidgeotto 
+        -  1-12 HP ---> **Swap to Squirtle**
+        -  13-22 HP --> **Spam HA** or **Swap**
+        -  23+ HP ----> **Spam HA** and swap on rat
 - Raticate:
 	- 1-12 HP ---> **Potion**
-    - 13-22 HP --> **Potion** [or **MP**, which risks being KO'd by Hyper Fang crit]
+    - 13-22 HP --> **Potion** or **MP**
 	- 23+ HP --- > **HA + PS**
 - Kadabra:
-	- 1-12 HP --> **HA Kadabra** & **Potion turn 1 on Ivysaur**, then **Thrash Ivy**
+	- 1-12 HP --> **HA Kadabra** & **Potion turn 1 on Ivysaur**
 	- 13+ HP ---> **Thrash** 
 
-Talk to the Captain to get HM01.
-
-Depending of your HP, you may fight the Gentleman in [the 3rd Cabin from the Right](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
+Optional Gentleman in [the 3rd Cabin from the Right](https://gunnermaniac.com/pokeworld?map=96#21/11).
 
 | HP    | Strategy                                 |
 | ----- | ---------------------------------------- |
@@ -305,21 +239,16 @@ Depending of your HP, you may fight the Gentleman in [the 3rd Cabin from the Rig
 | 2-11   | Do Gentleman                            |
 | 12-24  | Do Gentleman to be extra safe           |
 
-> Note:           
-> The text box after using cut = Instant Text.           
-> After pressing A to use Cut, **hold B**        
-> to perfectly auto-clear "Paras Hacked away with Cut."        
 
 Vermillion Mart:
 - 6 Repels
-- 4 Parlyz Heals
+- 5 Parlyz Heals
 
 **Cut Menu**:
-- Slot 7 - Teach **TM11** (BB) over Slot 4 (PS)
-- [Slot 8 - use Rare Candy, if you fought the Gentleman]
-- Slot 7 - Teach **HM01** (Cut) to Paras
-- Up 1 - Teach **TM28** (Dig) to Paras
-- Use Cut
+- S7 TM11 (Nugget exits)
+- (S8 Candy (4 below Nugget))
+- S7 HM01 (Nugget exits)
+- U1 TM28
 
 Do Cans Manip
 
@@ -350,21 +279,16 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 - Get the Bike and exit shop.
 
 **Bike Menu**:
-  - Swap Slot 1 - **Potion** down 9 w/ Bike
-  - U1 Teach **TM24** (TB) over Slot 3 (HA)
-  - Use the Bike
+  - Swap S1 **Potion** d9 w/ Bike (4 below HM01)
+  - U1 **TM24**
+  - S1 Bike
 
 ## Route 9
 
 > Quick Reference     
-> SLot 7: Repel (3 below Nugget)     
-> Slot 8: Parlyz Heal     
-> Slot 9: Potion (3 below HM01)     
-
-**4 Turn Thrash Girl:**
-- MP
-- Thrash x3
-
+> S7: Repel  (3 below Nugget)     
+> S8: Para   (4 below Nugget)     
+> S9: Potion (3 below HM01)     
 
 **Venonat Trainer:**
 | HP           | Strategy                    |
@@ -374,43 +298,23 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 | 15-21        | BB x4                       |
 | 22+          | BB + Thrash                 |
 
-
 ## Rock Tunnel
 
 > Quick Reference     
-> SLot 7: Repel (3 below Nugget)     
-> Slot 8: Parlyz Heal     
-> Slot 9: Potion (3 below HM01)     
-> (10+ tiles of wiggle room on 2nd/3rd Repel in either direction)    
-
-<img src="https://i.imgur.com/gs5N4V5.png">
-
-- **Pokemaniac 1**: BB, TB
-- **Pokemaniac 2**: TB
+> S7: Repel  (3 below Nugget)     
+> S8: Para   (4 below Nugget)     
+> S9: Potion (3 below HM01)     
 
 > Save before Oddish Girl if under 43 HP.     
-> Unless you did Gentleman Candy, then don't save and always thrash turn 1.     
 
-- **Oddish Girl**
-    - 1-17 or 23+ HP --> Thrash turn 1
-    - 18-22 HP --------> TB + Thrash
-	   - Sleep --------> Potion under 6 HP.
-       - Para'd -------> keep using Thrash, but use Potion under 14 HP.
-       - Do not use Para Heal in fight, use it in the next Repel Menu instead.
-
-- **Hiker**: BB x3
-
-> 1-9 HP: Potion before Jr. Trainer (to live crit QA - reg QA does 5)     
-
-**Jr Trainer F:**
-- Thrash x3
+> 1-9 HP: Potion after Hiker 
 
 Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Route 8
 
 > 1-8 HP: Potion before Gambler
-                           
+
 **Gambler:**
 - Growlithe: BB (+ Thrash)
 - Vulpix: Thrash
@@ -422,24 +326,23 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Celadon City
 
-> If you fought Gentleman, you can buy +1 X Accuracy
+> If you fought Gentleman, buy +1 X Accuracy
 
 Celadon Mart:
 - Floor 2:
-	- Sell TM34
-	- Sell both Nuggets
 	- Buy TM07
 	- Buy 7 Super Repels
 	- Buy 4 Super Potions
 	- Buy 2 Revives
 - Floor 4:
-	- Buy Poke Doll
+	- Sell TM34 + both Nuggets
+    - Buy Poke Doll
 - Roof:
-	- Buy Soda Pop and trade it to the girl
-	- Come back and buy Fresh Water
+	- Buy Soda Pop + Trade it
+	- Buy Fresh Water
 - Floor 5:
 	- Buy 12 X Accuracy
-	- Buy 9 X Special
+	- Buy 8 X Special
 	- Buy 1 X Speed
 
 Take the elevator and get HM02 (Fly)
@@ -447,18 +350,15 @@ Take the elevator and get HM02 (Fly)
 Fly Menu (1):
 - Swap S2 **Helix** d8 w/ **TM07**
 - d1 use **Super Repel**
-- d4 teach **TM48** (RS) over Slot 1 (MP)
+- d4 teach **TM48** (RS) over (MP)
 Fly Menu (2):
-- Swap S3 **S.S.Ticket** d13 w/ **X Accuracy**
+- Swap S3 **S.S.Ticket** d13 w/ **X Accuracy** (2 below Poke Doll)
 - d3 Teach **HM02** to bird
 - Fly (D3) to Lavender
 
-## Lavender Town
+## Lavender Tower
 
-> Note: If you are KO'd, then swap to another poke, let them be KO'd, swap back to Nido    
-> sometimes this may mean we need to re-set up X-Item(s)    
-
-**Lavender Tower Rival:**
+**Lavender Rival:**
 
 > Quick Reference     
 > do not use your last potion, super potion instead if needed     
@@ -475,45 +375,23 @@ Fly Menu (2):
 - Kadabra: Thrash x1
 - Ivy: Thrash x2
 
-**Channeler 1:**
-- RS x2
-
-- Get the Elixer and the hidden Elixer.
-
-**Channeler 2:**
-- RS
-
-**Channeler 3:**
-- RS
-
-Pick up the Rare Candy.
+> fight channelers, get Elixers, get candy
 
 Menu before Ghost:
-- S2 - teach **TM07** (HD) over Slot 1 (RS)
+- S2 - teach **TM07** (HD) over RS
 
 **Ghost Encounter:**
 - Swap S3 **HM01** d7 w/ **Super Repels**
 - d3 use **Poke Doll**
 
-**Rocket 1:**
-- TB x3 (+ BB)
-
-**Rocket 2:**
-- X Accuracy + HD x2
-
-**Rocket 3:**
-- TB x2
-- Thrash x1-2
-- Thrash x1
+> Fight the rockets.
 
 Get the Poke Flute and Fly (D1) to Celadon.
 
 ## Koga Split
 
-- Use the Pokemon Center
-- Then Bike East into Saffron City
-
-Enter Silph Co and take the stairs to the 5th Floor
+- Use the Pokemon Center.
+- Then Bike East into Saffron City into Silph Co. 5th Floor
 - Get the [hidden tree Elixer](http://gunnermaniac.com/pokeworld?map=210#12/3)
 
 **Rocket w/Arbok:**
@@ -556,7 +434,7 @@ Get the Card Key
 - BB
 - HD
 
-Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
+Go back to the elevator and go to the 10th Floor (3 below 7th) to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
 
 Dig out w/ Paras
 
@@ -587,27 +465,23 @@ Menu before Snorlax:
 
 ## Safari Zone
 
-- Use Slot 3 - **Super Repel** in Zone 2 around the tile shown below:
-- <img src="https://i.imgur.com/6SNJtan.png" width = "150">
-
-
+- Use Slot 3 - **Super Repel** in Zone 2
 - Pick up the Gold Teeth and get HM03 (Surf) in the house.
-
 - Exit the house, Dig out of the Safari Zone
-- Fly (D2) back to Fuschia City, and walk into the gym. 
+- Fly (D2) back to Fuschia City, and walk/bike into the gym. 
 
 **Juggler 1:**
 - EQ x4
 
 **Juggler 2:**
 - Drowzee: EQ
-- Hypno: EQ + TB (if TB is disabled, then finish with EQ or BB)
+- Hypno: EQ + TB (or EQ/BB)
 
 **Koga:**
 - EQ x3
 - Weezing:
     - Slot 8 - **Elixer**  (3 below Rare Candy)
-	- If X Attack, scroll Up 2 to use X Special
+	- If X Attack, Up 2 to use X Special
 
 | HP after SD on Koga |      Red Bar Lost on...       | Overview of Strategy                                                                                                       
 | ------------------- | ----------------------------- | -----------------------------------------------
@@ -654,11 +528,6 @@ Bike to the gym, cut the trees.
 | 25-32               | Poké Flute on Vileplume until hit                                                                          
 | 33+                 | Poké Flute on Victreebel until hit   
 
-**Erika:**
-- EQ
-- Blizz
-- EQ
-
 **Cut the middle tree** to exit the gym.
 - **Fly (D2)** back to Cinnabar Island
 
@@ -667,8 +536,7 @@ Bike to the gym, cut the trees.
 Quiz answers: **A B B B A B**
 
 **Blaine:**
-- **X Accuracy** + EQ
-- HD x3
+- **X Accuracy** + EQ, HD x3
 
 Dig out and Bike East to Sabrina's gym
 
@@ -679,6 +547,8 @@ Dig out and Bike East to Sabrina's gym
 
 **Sabrina:**
 - EQ x4
+
+> if 21-30 HP, use Blizz on Cooltrainer's Rhyhorn
 
 Walk back to the teleporter and Dig out.
 - **Fly (U1)** to Viridian and Bike to the Gym.
@@ -692,11 +562,11 @@ Walk back to the teleporter and Dig out.
 
 **Blackbelt:**
 - Machoke: **X Accuracy** + **HD**
-- Machop: **Blizz** (or EQ if somehow 0 Blizz are left)
+- Machop: **Blizz** (or EQ)
 - Machoke: **HD**
 
-> Leave the gym to reset the trainer      
-> Take one step up and buffer Start to Menu     
+> If 27+ HP after BB:      
+> X-Special turn 1 on Giovanni's Nidoking      
 
 **Elixer Menu**:
 - Slot 6 - **Elixer** (3 below Super Repel)
