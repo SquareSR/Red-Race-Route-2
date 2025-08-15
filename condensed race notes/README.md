@@ -1,14 +1,3 @@
-# Race Route - 6 Repel & 2 Max Ether
-
-### Resources 
-- [Safety-oriented HP Strats for races](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats-for-races)
-- [Defensive Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
-- [Offensive Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
-- [racetime.gg](https://racetime.gg/)
-
-### Other Routes
-- [6 Repel + PPUP - Race Route Notes](https://docs.google.com/document/d/1XJ6XQ8M4icDfJdTYg4eN4eXc7NhzDyXglUu67XrNu90/edit?usp=sharing)
-
 ## Nidoran Split
 
 - Get PC Potion                                
@@ -565,15 +554,12 @@ Walk back to the teleporter and Dig out.
 - Machop: **Blizz** (or EQ)
 - Machoke: **HD**
 
-> If 27+ HP after BB:      
-> X-Special turn 1 on Giovanni's Nidoking      
+Backup Boom Strats:
+- 27-31 HP --> S4 X Special turn 1 on Gio's Nidoking
+- 32+ HP ----> S6 Elixer turn 1 on Gio's Nidoking
 
 **Elixer Menu**:
 - Slot 6 - **Elixer** (3 below Super Repel)
-
-> Backup Boom Strats note:     
-> If 27+ hp, then use **Slot 4 - X Special** turn 1 against **Giovanni's 4th Pokemon - Nidoking**,     
-> (TB stall after if needed until he hits you), then **EQ** and play normal.     
 
 **Giovanni:**
 - Rhyhorn: EQ
@@ -583,13 +569,7 @@ Walk back to the teleporter and Dig out.
 - Rhydon: Blizz (+ Blizz) (+EQ if only 2 Blizz are left)
 
 Menu after leaving the gym and hopping the ledge:
-- **Bike**
-
-Menu before the Nido grass (cursor is on items):
-- Slot 3 - use **Super Repel**
-
-> remember to X Special **on Growlithe** in the next fight     
-> the badge boost is required there to outspeed Zam     
+- **Srepel + Bike**
 
 **Viridian Rival:**
 - **Pidgeot**:
@@ -605,30 +585,17 @@ Menu before the Nido grass (cursor is on items):
 - Get on Bike.
 - When using Surf: Up 1 to Pkmn, D1 to Squirtle, D1 to Surf.
 - Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water.
-- Get back on Bike
 
 ## Victory Road
 
-Menu on step up into cave - "Boulder #1"
-- Use **Super Repel**
-- then use **Strength**
-
-Boulder #2
-- Use **Strength**
-
-Boulder #3
-- Use **Super Repel**
-- Use **Strength**
-
-Boulder #4 *after droping through the hole*:
+Last Srepel Menu:
 - Use **Strength**.
 - d2 use **Max Ether** on (U1) Nido on Slot 1 (HD)
 - u2 use last **Super Repel**
 - Bike
 
 > Optional Safety (especially if low on healing items):     
-> Pick up the [hidden Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7)       
-> <img src="https://i.imgur.com/hIcu2MX.png" width="175" >      
+> Pick up the [hidden Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7)        
 
 ## Elite Four
 
@@ -641,11 +608,7 @@ Only if zero Revives are left:
 	- Swap back to Nido and **X Accuracy**
 	- HD x5
 
-> Backup Boom Strat note:    
-> **If you lost red bar during Lorelei**,    
-> then skip the Menu before Bruno    
-> Backup Bruno: **X Accuracy**, d2 **Max Ether** on HD, + HD x5       
-> just gives Onix one extra turn to hit us back into red bar      
+> Backup Bruno: **X Accuracy**, d2 **Max Ether** on HD, + HD x5
 
 **Menu before Bruno**:
 - use Slot 4 - **Max Ether** on HD
@@ -654,7 +617,8 @@ Only if zero Revives are left:
 - **X Accuracy** + HD x5
 
 **Menu before Agatha**:
-- Slot 7 - **Super Potion x2**
+- S7 **Super Potion x2** (3 below Elixer)
+- (d3 **Potion** (3 below Spot)) 
 - d10 use **Rare Candy** (2 below HM03)
 
 **Agatha:**
@@ -679,12 +643,13 @@ HP      | ITEMS
 107-127 | Potion
 
 **Menu before Lance**:
-- **Use Slot 4 - Elixer** and heal to 128+ HP.
-- (**Slot 6 - Super Potion**; **Slot 9 - Potion** as needed)
+- **Use S4 - Elixer** and heal to 128+ HP.
+- **S6 - Super Potion** (3 below X Special)
+- **S9 - Potion** (2 below Revive)
 - **Save before Lance**
 
 **Lance:**
-- Gyarados: **Slot 3 - X Special** + TB
+- Gyarados: **S3 - X Special** + TB
 - Dragonair 1: **X Special** (+ Up 1 - X Acc if you have 3 X Accs left) + Blizz
 - Dragonair 2: Blizz
 - Aerodactyl: TB
