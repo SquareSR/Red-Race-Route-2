@@ -24,7 +24,7 @@ Nidoran Manip (Slot 2 Yoloball)
 
 If Bad Special & No Bird - Do **60/60 Backup Pidgey Manip**:
 - Nido lead, Menu w/Weedle Guy **one tile off sceen**, standard intro
-- <img src="https://i.imgur.com/lb8njpP.png"> <img src="https://i.imgur.com/M3i9TvS.png"> <img src="https://i.imgur.com/BDgx9Lp.png">
+- <img src="https://i.imgur.com/tsEZcj3.png">
 
 Pewter Mart:
 - Buy **8 Potions**
