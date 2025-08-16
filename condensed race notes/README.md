@@ -339,7 +339,10 @@ Take the elevator and get HM02 (Fly)
 Fly Menu (1):
 - Swap S2 **Helix** d8 w/ **TM07**
 - d1 use **Super Repel**
-- d4 teach **TM48** (RS) over (MP)
+- d4 teach **TM48** (RS) over MP
+
+> Late Drill
+
 Fly Menu (2):
 - Swap S3 **S.S.Ticket** d13 w/ **X Accuracy** (2 below Poke Doll)
 - d3 Teach **HM02** to bird
