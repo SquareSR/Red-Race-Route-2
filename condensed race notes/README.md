@@ -683,6 +683,13 @@ Last Srepel Menu:
 Only if zero Revives are left:
 - Deposit Squirtle and Paras
 
+#### Lorelei backup for Revive used post-Koga
+| HP     | Strategy       |
+| ----   | -------------- |
+| 66-81  | X Spec, X Acc  |
+| 82-92  | Potion, X Acc  |
+| 99+    | X Acc Turn 1   |
+
 **Lorelei:**
 - Dewgong:
 	- Swap to the bird turn 1
