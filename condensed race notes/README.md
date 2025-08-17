@@ -1,13 +1,20 @@
 ## Nidoran Split
 
-- Get PC Potion                                
+> Get PC Potion                                
                                         
-**Rival 1:**
-- TW x1-2 + spam Tackle
-- 1-5 HP: Use Potion
+#### Rival 1
+| HP   | Healing Strategy          |
+| ---- | ------------------------- |
+| 1-5  | Potion                    |
 
 Viridian Mart:
-- Buy **4 Poke Balls**
+- **4 Poke Balls**
+
+#### Nidoran Manip Save Menu
+| HP   | Healing Strategy         |
+| ---- | ------------------------ |
+| 1-12 |  Potion before Manip     |
+| 13+  |  Slot 2 Yolo ball?       |
 
 Nidoran Manip (Slot 2 Yoloball)
 
@@ -29,43 +36,82 @@ If Bad Special & No Bird - Do **60/60 Backup Pidgey Manip**:
 Pewter Mart:
 - Buy **8 Potions**
 
-#### When to Potion on Brock:
-| DEF  | Heal on Geodude | Heal on Onix | after 1 Screech | after 2 Screeches |
-| ---- | --------------- | ------------ | ----------------| ------------------|
-| 15   |      1-15       |     1-13     |       1-14      |       1-20        |
-| 16   |      1-14       |     1-12     |       1-14      |       1-20        |
-| 17   |      1-13       |     1-12     |       1-12      |       1-20        |
+#### Weedle Guy
+| HP   | Healing Strategy     |
+| ---- | -------------------- |
+| 1-7  | Potion               |
+| Stats | Check Defense at L8 |
+
+#### Before Brock & on Geodude
+| DEF  |  HP   | Healing Strategy    |
+| ---- | ----- | ------------------- |
+| 15   | 1-15  | Potion              |
+| 16   | 1-14  | Potion              |
+| 17   | 1-13  | Potion              |
+|      | Stats | Check Defense at L9 |
+
+#### On Onix
+| DEF  | HP@0  | HP@-2 | HP@-4 |
+| ---- | ----- | ----- | ----- |
+|  16  | 1-13  | 1-14  | 1-20  |
+|  17  | 1-12  | 1-14  | 1-20  |
+|  18  | 1-12  | 1-12  | 1-20  |
+|  19  | 1-12  | 1-12  | 1-17  |
 
 ## Route 3
 
-- BC1 Potion on Weedle under 10 HP
-- Shorts Guy - Heal to 28+ HP
+> Potion under 10 HP on Weedle
 
-**Shorts Guy:**
-- Rat: [1-15 Potion; 1-18 if @-2]
-- Ekans: [1-5 Potion; 1-6 if @-2; 1-8 if @-3]
+### BC1: 
+- Leer + HA x2
+- Leer + Tackle x3 
+- Leer + Tackle + HA
 
-> 1-5 HP Pot on BC2 Caterpie       
-> Pot x2 before BC3 Caterpie      
+> Heal to 28+ HP
+
+#### Shorts Guy Rat (16 is 1/39 QA crit)
+| HP@0-1  | HP@-2 |
+| ------- | ----- |
+|  1-15   | 1-18  |
+
+#### Shorts Guy Ekans
+| HP@0-1 | HP@-2 |  HP@-3 |
+| -----  | ----- | ------ |
+|  1-5   |  1-6  |  1-7   |
+
+#### BC2 Caterpie
+| HP   | Strategy |
+| ---- | -------- |
+| 1-5  |  Potion  | 
+
+#### Before Bug Catcher 3
+| HP   | Healing Strategy  |
+| ---- | ----------------- |
+| 1-5  | Potion x2         |
 
 ## Mt. Moon 
 
+#### Before Moon Rocket (nolass)
+- Heal to 36+ HP and save the game
+
 Route 3 Moon Manip (**Pal(hold)**)
-- <img src="https://i.imgur.com/mpGld2C.png" width = "300">
-- <img src="https://i.imgur.com/o4lHp8A.png" width = "300">
+- <img src="https://i.imgur.com/mpGld2C.png" width = "400">
+- <img src="https://i.imgur.com/o4lHp8A.png" width = "350">
 
 **PoY Backup** (**Standard Intro** - "early, then late")
-- <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
+- <img src="https://i.imgur.com/2OPBuoM.png" width = "150"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
 
 **Grogir Backup** (**Hold A on Bios**)
 - <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
+
+> Heal under 16 HP on Rat
 
 #### Moon Man Zubat (When to Potion)
 | DEF  | Not confused  | Confused      |
 | ---- | ------------- | ------------- |
 | -0   |      1-7      |     1-16      |
 | -1   |      1-11     |     1-26      |
-| -2   |      1-13     | Yolo or swap to a low-HP-mon |
+| -2   |      1-13     |               |
 
 Menu 1-2 steps after defeating Moon Man:
 - Toss Pokeballs (if you haven't already & have a Paras)
@@ -83,9 +129,8 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Bridge Rival:**
 - **Pidgeotto**:
     - HA x2 + HA or MP
-         - Sand:
-         - 1-30 HP --> **Swap to Squirtle** 
-         - 31+ HP ---> **keep spamming HA**
+         - Sand 1-30 HP --> **Swap to Squirtle** 
+         - Sand 31+ HP ---> **keep spamming HA**
 - **Abra**: HA
 - **Rat**: MP [Potion under 22 HP]
 - **Bulba**: MP + HA (or MP) [Potion under 15 (or 18 if seeded), unless HA KOs] 
