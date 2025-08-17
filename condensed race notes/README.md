@@ -732,8 +732,8 @@ HP      | ITEMS
 
 **Menu before Lance**:
 - **Use S4 - Elixer** and heal to 128+ HP.
-- **S6 - Super Potion** (3 below X Special)
-- **S9 - Potion** (2 below Revive)
+- **S6 - Super Potion** (X Special exits)
+- **S9 - Potion** (Super Potion exits)
 - **Save before Lance**
 
 **Lance:**
@@ -754,16 +754,11 @@ Any HP | Heal to 45+ for safety | or yolo if required
 **Menu before Champ**:
 - Heal to 22+ HP
 - (Only Save if you have zero Revives or if you have only one X Accuracy left.)
+- S6 Super Potion (X Special exits)
+- S9 Potion (Super Potion exits)
 
-> 01 - Bicycle     
-> 02 - X Accuracy     
-> 03 - X Special     
-> 04 - Helix Fossil     
-> 05 - HM01     
-> 06 - Super Potion     
-> 07 - Revive     
-> 08 - S.S. Ticket     
-> 09 - Potion      
+
+
 
 **Champion:**
 - Pidgeot Turn 1: **Slot 3 - X Special**
