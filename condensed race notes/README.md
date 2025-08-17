@@ -319,6 +319,13 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 > S8: Para   (4 below Nugget)     
 > S9: Potion (3 below HM01)     
 
+#### 4 Turn Thrash Girl (1st Oddish)
+
+| HP   | Strategy                                 |
+| ---- | ---------------------------------------- |
+| 4-5  | Thrash, swap on Bellsprout and split exp |
+| 6+   | MP                                       |
+
 **Venonat Trainer:**
 | HP           | Strategy                    |
 | ------------ | --------------------------- |
@@ -334,19 +341,44 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 > S8: Para   (4 below Nugget)     
 > S9: Potion (3 below HM01)     
 
-> Save before Oddish Girl if under 43 HP.     
+#### Fly Split Red Bar (play normal if not going for red bar)
+- Note: Swap if confused by Slowpoke
 
-> 1-9 HP: Potion after Hiker 
+| HP @ L28 | Strategy                                         |
+| -------- | ------------------------------------------------ |
+| 1-21     | Normal                                           |
+| 20-29    | 1st Slowpoke BB + TB                             |
+| 30-31    | 2nd Slowpoke BB + TB                             |
+|  32+     | skip red bar                                     |
+
+#### Oddish Girl
+| HP @ L29 | Strategy                    |
+| -------- | --------------------------- |
+| 1-17     | Save & Thrash               |
+| 18-22    | Save & TB + Thrash          |
+| 23-42    | Save & Thrash               |
+| 43+      | No-Save & Thrash            |
+
+> Quick Reference      
+> S7: Repel  (3 below Nugget)      
+> S8: Para   (4 below Nugget)      
+> S9: Potion (3 below HM01)     
+
+#### After Hiker (delay Repel)
+|    HP  | Strategy              |
+| ------ | --------------------- |
+| 1-9    | S7 Repel + d2 Potion  |
+| 6-9    | yolo if desperate     |
 
 Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Route 8
 
-> 1-8 HP: Potion before Gambler
-
-**Gambler:**
-- Growlithe: BB (+ Thrash)
-- Vulpix: Thrash
+#### Gambler
+| HP    | Strategy                 |
+| ----- | ------------------------ |
+| 1-8   | Potion before the fight  |
+| 5-8   | yolo if desperate        |
 
 ## Underground
 
@@ -379,7 +411,7 @@ Take the elevator and get HM02 (Fly)
 Fly Menu (1):
 - Swap S2 **Helix** d8 w/ **TM07**
 - d1 use **Super Repel**
-- d4 teach **TM48** (RS) over MP
+- d4 teach **TM48** (RS) over MP (slot 2)
 
 > Late Drill
 
@@ -392,8 +424,7 @@ Fly Menu (2):
 
 **Lavender Rival:**
 
-> Quick Reference     
-> do not use your last potion, super potion instead if needed     
+> Quick Reference        
 > Slot 7 - Potion (3 below HM01)     
 > Up to X Acc (1 above HM01)     
 > Slot 12 - Super Potion      
@@ -407,10 +438,14 @@ Fly Menu (2):
 - Kadabra: Thrash x1
 - Ivy: Thrash x2
 
+Channeler 1:
+- Select + Down + Select + A
+- Swap RS to Slot 1 + use RS x2
+
 > fight channelers, get Elixers, get candy
 
 Menu before Ghost:
-- S2 - teach **TM07** (HD) over RS
+- S2 - teach **TM07** (HD) over RS (slot 1)
 
 **Ghost Encounter:**
 - Swap S3 **HM01** d7 w/ **Super Repels**
@@ -429,8 +464,8 @@ Get the Poke Flute and Fly (D1) to Celadon.
 **Rocket w/Arbok:**
 - Thrash x2-3
 
-> If under 90 HP and Parlyzed: Menu + use Slot 5 - Parlyz Heal before the next fight.      
-> 90+ HP and Paralyzed: delay using Para Heal until in the next fight.     
+> If under ~71-89ish HP and Parlyzed: Menu + use Slot 5 - Parlyz Heal before the next fight.      
+> ~71-90+ HP and Paralyzed: delay using Para Heal until in the next fight.     
 
 Get the Card Key
 
@@ -463,7 +498,7 @@ Get the Card Key
 **Giovanni:**
 - **X Accuracy** + HD
 - HD
-- BB
+- BB (24-37 could TB stall if desperate for red bar)
 - HD
 
 Go back to the elevator and go to the 10th Floor (3 below 7th) to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
@@ -492,8 +527,11 @@ Menu before Snorlax:
 - Use Bike
 
 > if we ran out of either potions or para heals some time after Surge, then modify EQ Menu as follows:      
-> S4 - **Repel**, d4 swap **Helix** d5 w/ **X-Special**, d5 teach **TM26** (EQ) over Slot 2 (Thrash)     
-> <img src="https://i.imgur.com/vm9OURj.png" width = "120"> in this case, pick up [Safari Full Restore](https://gunnermaniac.com/pokeworld?map=217#14/6/RRRDDRRRRDS) to fill the bag space          
+> S4 - **Repel**,      
+> d4 swap **Helix** (rc exits)      
+> d5 w/ **X-Special** (HM01 delays),      
+> d5 teach **TM26** (EQ) over Slot 2 (Thrash)          
+> get [Safari Full Restore](https://gunnermaniac.com/pokeworld?map=217#14/6/RRRDDRRRRDS)      
 
 ## Safari Zone
 
@@ -588,7 +626,7 @@ Walk back to the teleporter and Dig out.
 ## Viridian City
 
 **Cooltrainer's Rhyhorn**
-- EQ
+- EQ (or Blizz)
 
 [Save before Blackbelt]
 
