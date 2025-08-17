@@ -14,9 +14,7 @@ Viridian Mart:
 | HP   | Healing Strategy         |
 | ---- | ------------------------ |
 | 1-12 |  Potion before Manip     |
-| 13+  |  Slot 2 Yolo ball?       |
-
-Nidoran Manip (Slot 2 Yoloball)
+| 13+  |  Slot 2 Yolo ball        |
 
 ## Brock Split
 
