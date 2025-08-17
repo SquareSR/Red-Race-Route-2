@@ -88,7 +88,7 @@ Route 3 Moon Manip (**Pal(hold)**)
 - <img src="https://i.imgur.com/o4lHp8A.png" width = "400">
 
 **PoY Backup** (**Standard Intro** - "early, then late")
-- <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "3000">
+- <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "300">
 
 **Grogir Backup** (**Hold A on Bios**)
 - <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
