@@ -84,8 +84,8 @@ Pewter Mart:
 - Heal to 36+ HP and save the game
 
 Route 3 Moon Manip (**Pal(hold)**)
-- <img src="https://i.imgur.com/mpGld2C.png" width = "600">
-- <img src="https://i.imgur.com/o4lHp8A.png" width = "550">
+- <img src="https://i.imgur.com/mpGld2C.png" width = "450">
+- <img src="https://i.imgur.com/o4lHp8A.png" width = "400">
 
 **PoY Backup** (**Standard Intro** - "early, then late")
 - <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "3000">
