@@ -114,14 +114,25 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 
 ## Bridge
 
+#### Bridge Rival
+
+| Poke |       HP        | Healing Strategy  |
+| ---- | --------------- | ----------------- |
+| Pidg | 1-17            | Potion            |
+| Rat  | 1-21            | Potion            |
+| Bulb | 1-14 (17 if LS) | Potion            |
+
+#### Bridge Rival Rat after two Tail Whips
+| HP   | Strategy                      |
+| ---- | ----------------------------- |
+| 1-6  | Swap to Squirtle, Potion Nido |
+| 7-14 | Potion and then HA            |
+| 15+  | HA                            |
+
 **Bridge Rival:**
-- **Pidgeotto**:
-    - HA x2 + HA or MP
-         - Sand 1-30 HP --> **Swap to Squirtle** 
-         - Sand 31+ HP ---> **keep spamming HA**
-- **Abra**: HA
-- **Rat**: MP [Potion under 22 HP]
-- **Bulba**: MP + HA (or MP) [Potion under 15 (or 18 if seeded), unless HA KOs] 
+- **Pidgeotto**: HA x2 + HA or MP
+    - Sand 1-30 HP --> **Swap to Squirtle** 
+    - Sand 31+ HP ---> **keep spamming HA**
 
 **BC:**
 - MP (+ PS)
