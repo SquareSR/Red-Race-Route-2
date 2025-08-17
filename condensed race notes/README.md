@@ -225,7 +225,7 @@ Menu after Bill:
 > Get the hidden FR       
 > Menu after underground:       
 > TM11 (Nugget exits), swap TM34 d5 w/Pot(Nugget exits), d1 use Repel           
-> Cut Menu: S10 HM01 (4 below TM34), swap HM01 Up4 w/TM34, Up1 T28             
+> Cut Menu: S10 HM01 (4 below TM34), swap HM01 Up4 w/TM34, Up1 TM28             
 > Bike Menu: S1 Pot w/Bike (FR exits), U1 TM24            
 > Fly Split: S6 Repel (Nugget exits)            
 > Selling: S3 Nugget, S7 FR + S7 TM34 (HM01 exits)           
