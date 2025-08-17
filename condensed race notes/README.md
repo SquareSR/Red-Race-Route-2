@@ -553,13 +553,13 @@ Menu before Snorlax:
     - Slot 8 - **Elixer**  (3 below Rare Candy)
 	- If X Attack, Up 2 to use X Special
 
-| HP after SD on Koga |      Red Bar Lost on...       | Overview of Strategy                                                                                                       
-| ------------------- | ----------------------------- | -----------------------------------------------
-| 0-1                 | Bruno's Machamp               | Normal Strats                                                                                                   
-| 2-6                 | Lorelei's Lapras / Cloyster   | Normal until Bruno; Use PP Item turn 2 on Onix                                                   
-| 7-14                | BB's Machop / VR's Growlithe  | X Special on Giovanni's Nidoking
-| 15-22               | Blaine's Rapidash             | Poké Flute on Vileplume                                                                                       
-| 23+                 | Beauty's Exeggcute            | Poké Flute on Victreebel         
+| HP after SD    |      Red Bar Lost on...       | Overview of Strategy                   
+| -------------- | ----------------------------- | -------------------------------------
+| 0-1            | Bruno's Machamp               | Normal
+| 2-6            | Lorelei's Lapras / Cloyster   | Use Max Ether turn 2 on Bruno's Onix
+| 7-11 / 12-14   | BB's Machop / VR's Growlithe  | X Special / Elixer on Gio's Nidoking
+| 15-22          | Blaine's Rapidash             | Poké Flute on Erika's Vileplume
+| 23+            | Beauty's Exeggcute            | Poké Flute on Erika's Victreebel         
 
 **Candy Menu** (after exiting Koga's Gym):
 - Slot 5 - Use all **Rare Candies**
