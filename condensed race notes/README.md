@@ -110,8 +110,7 @@ Menu 1-2 steps after defeating Moon Man:
 - Slot 4 - teach **TM01** (MP) over Leer (slot 1)
 
 If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras) **Pal(hold)**
-<img src="https://i.imgur.com/rRnoayt.png">
-<img src="https://i.imgur.com/MFBagiA.png">
+- <img src="https://i.imgur.com/rRnoayt.png" width = "250">
 
 ## Bridge
 
