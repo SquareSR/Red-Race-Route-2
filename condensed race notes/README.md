@@ -163,39 +163,41 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 ## Route 25
 
 **Bottom Hiker:**
-- WG
+- Select + Down + Select + A
+- Swap WG to S1 + use WG
 
 > 1-10 HP: Potion before Lass.
 
 **Lass:**
-- MP
+- **Mega Punch (which is slot 2 now)**
 - HA x2 (1-6 HP: Potion)
 
-> 1-7 HP: Potion before the Hiker
+> 1-7 HP: Potion before the Hiker        
+> under 10 hp on Machop, must potion     
 
 **Hiker:**
 - Geodude 1
-   - WG
+   - **use slot 1 WG**
 - Geodude 2
    - WG
-- Machop [1-9 Potion]
+- Machop
    - MP (+ PS)
    - or HA + PS, if 16-20 HP
 - Geodude 3
    - WG
 
-> under 6 HP, Potion
+> under 6 HP, Potion now
 
 **Lass:**
 - MP
 - HA
-- MP (or Thrash if you can already)
-	- Teach Thrash over WG (slot 2)
+- MP (or Thrash)
+	- Teach Thrash over slot 1 WG
 
-Oddish Menu after Bill:
-- Swap S2 TM34 d3 w/ Great Ball (TM34 exits), d1 Candy, s3 Escape
+> If need Oddish Menu after Bill:     
+> Swap S2 TM34 d3 w/ Great Ball (TM34 exits), d1 Candy, s3 Escape     
 
-Normal Menu after Bill:
+Menu after Bill:
 - Use Slot 5 - **Rare Candy**
 - Use Slot 3 - **Escape Rope**
 
@@ -204,35 +206,35 @@ Normal Menu after Bill:
 - Use the Center
 
 **Dig Rocket:**
-- Thrash x1-2
-- Thrash x1-2
+- Thrash
 
 **Jr Trainer F:**
-- Thrash x2
+- Thrash
 
 **Menu before Misty**:
-- Potion to 75+ HP if needed
-- Save the Game.
+- Potion to 75+ HP + Save
+
 
 **Misty**:
-- Staryu:
-    - Thrash x1
-- Starmie:
-    - Thrash x2-3
-	- If confused on Starmie after X-Defend, swap to Squirtle + spam TW to let it be KO'd.
+- If confused on Starmie after X-Defend, swap to Squirtle + spam TW to let it be KO'd.
 
 ## After Misty
 
-> If you somehow have zero Potions left, go to the **Cerulean Mart** after Misty           
-> Buy 5 Potions (slot 2) + at some point swap TM34 with Potions to fix our bag.     
-> Sell the hiden FR to make the money back at some point.        
+> Backup for Zero Potions left - **Down + Turn RIGHT for Cerulean Mart**                 
+> Buy 4 Potions (slot 2) + 7 Repel (slot 3) + 4 Parlyz Heal (Antidote exits)              
+> Get the hidden FR       
+> Menu after underground:       
+> TM11 (Nugget exits), swap TM34 d5 w/Pot(Nugget exits), d1 use Repel           
+> Cut Menu: S10 HM01 (4 below TM34), swap HM01 Up4 w/TM34, Up1 T28             
+> Bike Menu: S1 Pot w/Bike (FR exits), U1 TM24            
+> Fly Split: S6 Repel (Nugget exits)            
+> Selling: S3 Nugget, S7 FR + S7 TM34 (HM01 exits)           
+> Menus completely re-aligned Fly Menu onwards        
 
-If 1-15 HP (or 16-24 HP) after Misty:
-- If 3+ Potions are left:
-   - use a **Potion** on Nido.
+If 1-15 HP after Misty (or 16-24 HP):
+- 3+ Potions --> use a **Potion**
 - Otherwise:
-   - Pickup the hidden full restore in the underground
-   - and use Slot 8 - **Full Restore** (3 below S.S. Ticket) on Nido.
+   - Get and use Slot 8 - **Full Restore** (3 below S.S. Ticket) on Nido.
 
 ## Route 6
 
