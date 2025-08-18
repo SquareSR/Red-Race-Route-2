@@ -592,11 +592,13 @@ Bike to the gym, cut the trees.
 **Beauty:**
 - Blizz
 
-| HP after Exeggcute  | Overview of Strategy for Erika                                                                                                       
-| ------------------- | --------------------------------------                                            
+| HP after Exeggcute  | Overview of Strategy for Erika
+| ------------------- | -----------------------------------
 | 1-24                | Normal Strats: EQ, Blizz, EQ
-| 25-32               | Poké Flute on Vileplume until hit                                                                          
+| 25-32               | Poké Flute on Vileplume until hit                                                      
 | 33+                 | Poké Flute on Victreebel until hit   
+
+> S15 Pokeflute (2 below HM02) 
 
 **Cut the middle tree** to exit the gym.
 - **Fly (D2)** back to Cinnabar Island
@@ -705,8 +707,7 @@ Only if zero Revives are left:
 - **X Accuracy** + HD x5
 
 **Menu before Agatha**:
-- S7 **Super Potion x2** (3 below Elixer)
-- (d3 **Potion** (3 below Spot)) 
+- S7 **Super Potion x2** (Elixer exits)
 - d10 use **Rare Candy** (2 below HM03)
 
 **Agatha:**
