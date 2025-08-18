@@ -87,6 +87,9 @@ Route 3 Moon Manip (**Pal(hold)**)
 - <img src="https://i.imgur.com/mpGld2C.png" width = "450">
 - <img src="https://i.imgur.com/o4lHp8A.png" width = "400">
 
+PoY Backup:
+- A on turn, early then late, switch walls, A_turn beneath ladder, select S2
+
 > Heal under 16 HP on Rat
 
 #### Moon Man Zubat (When to Potion)
