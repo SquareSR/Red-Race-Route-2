@@ -1,17 +1,11 @@
 ## Nidoran Split
 
-> Get PC Potion                                
-                                        
-#### Rival 1
-| HP   | Healing Strategy          |
-| ---- | ------------------------- |
-| 1-5  | Potion                    |
+> Get PC Potion and heal under 6 HP
 
-Viridian Mart:
-- **4 Poke Balls**
+Marts:
+- **4 Poke Balls** & **8 Potions**
 
-#### Nidoran Manip Save Menu
-| HP   | Healing Strategy         |
+| HP   |     Strategy             |
 | ---- | ------------------------ |
 | 1-12 |  Potion before Manip     |
 | 13+  |  Slot 2 Yolo ball        |
@@ -20,32 +14,19 @@ Viridian Mart:
 
 <img src="https://i.imgur.com/899HQPn.png">
 
-> Potion       
-> Pokeball      
-> Antidote      
+> Potion under 8 HP on Weedle
 
-**Weedle Guy:** [1-7 HP: Potion]
-- TW x2-3 + spam Tackle 
-
-If Bad Special & No Bird - Do **60/60 Backup Pidgey Manip**:
-- Nido lead, Menu w/Weedle Guy **one tile off sceen**, standard intro
+**60/60 Backup Pidgey** (save w/ NPC one off screen):
 - <img src="https://i.imgur.com/tsEZcj3.png">
 
-Pewter Mart:
-- Buy **8 Potions**
-
-#### Weedle Guy
-| HP   | Healing Strategy     |
-| ---- | -------------------- |
-| 1-7  | Potion               |
 
 #### Brock Geodude & Onix
-| L8 DEF  |  HP   | L9 DEF  | HP@0  | HP@-2 | HP@-4 |
-| ------- | ----- | ------- | ----- | ----- | ----- |
-|   15    | 1-15  |   16    | 1-13  | 1-14  | 1-20  |
-|   16    | 1-14  |   17    | 1-12  | 1-14  | 1-20  |
-|   17    | 1-13  |   18    | 1-12  | 1-12  | 1-20  |
-|         |       |   19    | 1-12  | 1-12  | 1-17  |
+| **L8 DEF**  |  HP   |     | **L9 DEF**  | HP@0  | HP@-2 | HP@-4 |
+| ----------- | ----- | --- |----------- | ----- | ----- | ----- |
+|   **15**    | 1-15  |     |   **16**    | 1-13  | 1-14  | 1-20  |
+|   **16**    | 1-14  |     |   **17**    | 1-12  | 1-14  | 1-20  |
+|   **17**    | 1-13  |     |   **18**    | 1-12  | 1-12  | 1-20  |
+|             |       |     |   **19**    | 1-12  | 1-12  | 1-17  |
 
 ## Route 3
 
