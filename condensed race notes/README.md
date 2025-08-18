@@ -37,17 +37,22 @@ Marts:
 - Leer + Tackle x3 
 - Leer + Tackle + HA
 
-> Heal to 28+ HP
+| Heal to 28+ | @-2    | @-3    |
+| ----------- | ------ | ------ |
+| **Rat**     |        |        |
+|  1-15       | 1-18   |        |
+| **Ekans**   |        |        |
+|  1-5        |  1-6   |  1-7   |
 
-#### Shorts Guy Rat (16 is 1/39 QA crit)
-| HP@0-1  | HP@-2 |
-| ------- | ----- |
-|  1-15   | 1-18  |
+### Shorts Guy: 
+- Leer + HA x2
+- Leer + HA x2
 
-#### Shorts Guy Ekans
-| HP@0-1 | HP@-2 |  HP@-3 |
-| -----  | ----- | ------ |
-|  1-5   |  1-6  |  1-7   |
+### BC3: 
+- HA x2
+- HA x2-3 + Tackle x1-2
+- HA x2
+- HA x2 + Tackle
 
 #### BC2 Caterpie
 | HP   | Strategy |
