@@ -658,7 +658,8 @@ Backup Boom Strats:
 Menu after leaving the gym and hopping the ledge:
 - **Srepel + Bike**
 
-> Alt VR (83+ HP or behind): (X Acc +) X Spec, TB/Blizz, EQ, TB, X-Spec, TB, EQ, Blizz
+> Alt VR (83+ HP or behind): (X Acc +) X Spec, TB/Blizz, EQ, TB, X-Spec, TB, EQ, Blizz       
+> Skip Max Ether      
 
 **Viridian Rival:**
 - **Pidgeot**:
