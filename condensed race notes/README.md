@@ -461,7 +461,7 @@ Get the Card Key
 **Rival:**
 - Pidgeot:
 	- **X Accuracy**
-	- (+ Parlyz Heal, if needed)
+	- (+ d3 Parlyz Heal, if needed)
 	- d13 - **X Speed** (3 below Revive)
     - HD x5
 
@@ -483,6 +483,9 @@ Get the Card Key
     - HD
 - Marowak:
     - HD
+
+> Quick Reference            
+> Slot 12 - Revive (2 below HM01)     
 
 **Giovanni:**
 - **X Accuracy** + HD
@@ -536,6 +539,9 @@ Menu before Snorlax:
 - Drowzee: EQ
 - Hypno: EQ + TB (or EQ/BB)
 
+> Quick Reference            
+> Slot 12 - Revive (2 below HM01)     
+
 **Koga:**
 - EQ x3
 - Weezing:
@@ -577,6 +583,10 @@ Pick up the [Rare Candy](http://gunnermaniac.com/pokeworld?map=216#10/2) and [Se
 ## Erika's Gym
 
 Bike to the gym, cut the trees. 
+
+> Quick Reference            
+> Slot 10 - Revive (2 below HM01)     
+> Slot 15 - Flute  (2 below HM02)     
 
 **Beauty:**
 - Blizz
@@ -621,6 +631,11 @@ Walk back to the teleporter and Dig out.
 
 [Save before Blackbelt]
 
+> Quick Reference      
+> Slot **4** - X Special      
+> Slot 6 - Elixer (srepel exits)     
+> Slot 10 - Revive (2 below HM01)      
+
 **Blackbelt:**
 - Machoke: **X Accuracy** + **HD**
 - Machop: **Blizz** (or EQ)
@@ -643,10 +658,12 @@ Backup Boom Strats:
 Menu after leaving the gym and hopping the ledge:
 - **Srepel + Bike**
 
+> Alt VR (83+ HP or behind): (X Acc +) X Spec, TB/Blizz, EQ, TB, X-Spec, TB, EQ, Blizz
+
 **Viridian Rival:**
 - **Pidgeot**:
-    - **X Accuracy** + Blizz + TB
-- Rhyhorn: HD
+    - **X Accuracy** + **Blizz** + **TB**
+- Rhyhorn: **Horn Drill**
 - Gyarados: HD
 - **Growlithe**
     - **d2 use X Special** 
@@ -655,15 +672,15 @@ Menu after leaving the gym and hopping the ledge:
 ## Badge Check
 
 - Get on Bike.
-- When using Surf: Up 1 to Pkmn, D1 to Squirtle, D1 to Surf.
+- Surf: U1 Pkmn, D1 Squirtle, D1 Surf.
 - Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water.
 
 ## Victory Road
 
 Last Srepel Menu:
-- Use **Strength**.
-- d2 use **Max Ether** on (U1) Nido on Slot 1 (HD)
-- u2 use last **Super Repel**
+- **Strength**.
+- d2 **Max Ether** on (U1) Nido
+- u2 last **Super Repel**
 - Bike
 
 > Optional Safety (especially if low on healing items):     
@@ -675,11 +692,12 @@ Only if zero Revives are left:
 - Deposit Squirtle and Paras
 
 #### Lorelei backup for Revive used post-Koga
-| HP     | Strategy       |
-| ----   | -------------- |
-| 66-81  | X Spec, X Acc  |
-| 82-92  | Potion, X Acc  |
-| 99+    | X Acc Turn 1   |
+| HP     | Strategy                                                 |
+| ----   | -------------------------------------------------------- |
+| 1-65   | standard bird swap                                       |
+| 66-81  | **S3 X Spec**, **U1 X Acc**                              |
+| 82-92  | **S11 Potion** (HM01 delays), **U9 X Acc** (HM01 delays) |
+| 99+    | **X Accuracy**                                           |
 
 **Lorelei:**
 - Dewgong:
@@ -692,6 +710,15 @@ Only if zero Revives are left:
 **Menu before Bruno**:
 - use Slot 4 - **Max Ether** on HD
 
+> Quick Reference      
+> 03 - X Special      
+> 07 - Super Pot (Elixer exits)     
+> 08 - Revive    (2 below HM01)      
+> 10 - Potion    (Spot exits)      
+> 13 - Flute     (2 below HM02)      
+> 17 - Candy     (2 below HM03)
+
+
 **Bruno:**
 - **X Accuracy** + HD x5
 
@@ -703,22 +730,20 @@ Only if zero Revives are left:
 - Gengar: **Slot 3 - X Special** + **EQ**
     - Hypnosis hit --> d10 Poke Flute (2 below HM02)
 - Golbat: **Blizz**
-    - Haze notes:
-        - TB x2 on Golbat if you miss Blizz into Haze
-        - 1-24 HP: yolo (or Full Restore [3 below HM03] on Arbok if you have one)
-        - 25-60 HP: consider FR or Super Potion on Arbok (Para Heal if Glared)
+    - Haze --> 1-24 is a good yolo; 25-60 consider FR (HM03 exits)
+    - S12 - Parlyz Heal (1 below HM02 / 1 above Flute)
 - EQ x3
 
 HP      | ITEMS
 ------- | ---------------------------
-4-6     | Super Potion x2 + Potion x2
-8-26    | Super Potion x2 + Potion
-27-48   | Super Potion x2
-49-56   | Super Potion + Potion x2
-57-76   | Super Potion + Potion
-77-98   | Super Potion
-99-106  | Potion x2
-107-127 | Potion
+4-6     | Spot x2 + Pot x2
+8-26    | Spot x2 + Pot x1
+27-48   | Spot x2
+49-56   | Spot x1 + Pot x2
+57-76   | Spot x1 + Potion x1
+77-98   | Spot x1
+99-106  | Pot x2
+107-127 | Pot x1
 
 **Menu before Lance**:
 - **Use S4 - Elixer** and heal to 128+ HP.
@@ -728,26 +753,32 @@ HP      | ITEMS
 
 **Lance:**
 - Gyarados: **S3 - X Special** + TB
-- Dragonair 1: **X Special** (+ Up 1 - X Acc if you have 3 X Accs left) + Blizz
+- Dragonair 1: **X Special** (+ **U1 X Accuracy** if you have 3 X Accs left) + Blizz
 - Dragonair 2: Blizz
 - Aerodactyl: TB
 - Dragonite: Blizz
 
+> Quick Reference       
+> 02 - X Accuracy     
+> 03 - X Special      
+> 06 - SPot      (X Special exits)     
+> 07 - Revive    (2 below HM01)      
+> 09 - Potion    (HM01 delays / Spot exits)      
+
 HP     |      Standard Strat    | Alternate Strat
 ------ | ---------------------- | --------------------------------
-4-17   |       Potion           | Super Potion
-18-21  |       Super Potion     | yolo if you need red bar to win
-22-37  |       Don't heal       | Super Potion
+4-17   |       Pot x1           | Spot x1
+18-21  |       Spot x1          | yolo
+22-37  |       Don't heal       | Spot x1
 38-44  |       Don't heal       | Potion or Super Potion
-Any HP | Heal to 45+ for safety | or yolo if required
+Any HP |      Heal to 43+       | Heal to 52+
 
 **Menu before Champ**:
 - Heal to 22+ HP
-- (Only Save if you have zero Revives or if you have only one X Accuracy left.)
+- (Only Save if you have zero Revives or if you have only one X Accuracy left & dead to wing atk crit.)
+- Sky Atk: 72-85 / Wing Atk: 18-22 [44-52]
 - S6 Super Potion (X Special exits)
-- S9 Potion (Super Potion exits)
-
-
+- S9 Potion (HM01 delays / Spot exits)
 
 
 **Champion:**
