@@ -48,7 +48,7 @@ Marts:
 - Leer + HA x2
 - Leer + HA x2
 
-### BC3: 
+### BC2: 
 - HA x2
 - HA x2-3 + Tackle x1-2
 - HA x2
