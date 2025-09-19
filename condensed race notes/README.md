@@ -128,9 +128,12 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - HA x2  (Heal 6)
 
 **Youngster:**
-- MP  (Heal 11 or 18)
-- MP (+ PS) (Heal 3)
-- MP (Heal 7) or HA
+- Rat: MP
+    - Heal 18 or 11
+- Ekans: MP (+ PS) 
+    - Heal 3
+- MP 
+    - Heal 7
 
 **Lass:**
 - MP (+ PS) (Heal 9)
@@ -143,11 +146,14 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 | 16-27 | HA + HA/PS       |
 | 28+   | MP (+ PS)       |
 
-> 1-9 HP: Potion before Rocket.     
+> 1-9 HP: Potion before Rocket.      
+> 4-9 HP: yolo w/moon exp only     
 
 **Rocket:**
-- MP 
-- MP or HA
+- Ekans: MP (HA @-2)
+- Zubat: MP
+    - HA @-1 or w/Moon Exp
+    - Confused under 21 HP --> Pot
 
 ## Route 25
 
